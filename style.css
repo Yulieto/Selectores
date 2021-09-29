@@ -1,0 +1,23 @@
+*{
+    color: brown;
+}
+
+p, h2{
+    color: rgb(25, 68, 153);
+}
+
+.Amarilla{
+    color: yellow;
+}
+
+#titulo{
+    background-color: coral;
+}
+
+div p{
+    color: gray;
+}
+
+div > h3{
+    background-color: honeydew;
+}
